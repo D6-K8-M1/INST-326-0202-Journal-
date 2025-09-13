@@ -1,3 +1,4 @@
 Week 1
 
-Used AI to explain the code, and what the assignment was asking for
+Used AI to clarify what the question was asking me to do and to explain what I did wrong once I attempted.
+Explain concepts I didn't understand
