@@ -2,3 +2,10 @@ Week 1
 
 Used AI to clarify what the question was asking me to do and to explain what I did wrong once I attempted.
 Explain concepts I didn't understand
+
+
+Week 2
+
+For some of the questions I was confused on how to get started and how to approach, so I asked AI to explain what I need to do
+and with its guidance I was able to write the code. If I got it wrong, then I asked to explain what I did wrong then went 
+back to fix it
