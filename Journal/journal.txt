@@ -9,3 +9,10 @@ Week 2
 For some of the questions I was confused on how to get started and how to approach, so I asked AI to explain what I need to do
 and with its guidance I was able to write the code. If I got it wrong, then I asked to explain what I did wrong then went 
 back to fix it
+
+
+Week 3
+
+I was confused on how to go about the questions so I asked AI to give me steps on how to go about the problem. I attempeted it and if I got it wrong
+I pasted my code to see what went wrong and asked it to explain what and how to fix it and I tried again until I got it. When I was done I pasted the code
+and checked if it was right and had it give me suggestions on how to improve.
