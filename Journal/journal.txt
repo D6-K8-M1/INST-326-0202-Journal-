@@ -16,3 +16,9 @@ Week 3
 I was confused on how to go about the questions so I asked AI to give me steps on how to go about the problem. I attempeted it and if I got it wrong
 I pasted my code to see what went wrong and asked it to explain what and how to fix it and I tried again until I got it. When I was done I pasted the code
 and checked if it was right and had it give me suggestions on how to improve.
+
+
+Week 4
+If I didn't get it right, I tried debugging on my own, but if I couldn't get it I asked what was wrong (just explain steps) and when it told me
+I was able to go back and fix it. There were some that was a bit confusing but after I got guidelines on how to go about I was able to make 
+sense of it and complete it. Asked for some examples. 
