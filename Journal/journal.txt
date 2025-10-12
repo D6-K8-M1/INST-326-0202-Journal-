@@ -19,6 +19,14 @@ and checked if it was right and had it give me suggestions on how to improve.
 
 
 Week 4
+
 If I didn't get it right, I tried debugging on my own, but if I couldn't get it I asked what was wrong (just explain steps) and when it told me
 I was able to go back and fix it. There were some that was a bit confusing but after I got guidelines on how to go about I was able to make 
 sense of it and complete it. Asked for some examples. 
+
+
+Week 5
+
+I was confused on how to get started for some of them, so I asked how to get started and once I understood what I was supposed to do, I wrote it. 
+However, after I checked if I got it right or wrong by putting it into AI. If it was wrong, then I would ask it to tell me what part of my code was
+wrong if I couldn't find error and to describe it and using the explanation and help, I solved the problem (gave suggestions).
