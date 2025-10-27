@@ -35,4 +35,4 @@ Week 6
 
 I asked AI for some help in terms of understanding how to go about it. There was some confusing parts that I didn't get so I put my code in and asked
 it to give me instructions on what I'm missing since there were errors in running my code and with its suggestions, I was able to fix my mistakes.
-I rewrote it with the suggestions and ended up getting it right when it explained me what I got wrong and why it was wrong.
+I rewrote and fixed it with the suggestions and ended up getting it right when it explained me what I got wrong and why it was wrong.
