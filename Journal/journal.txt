@@ -36,3 +36,10 @@ Week 6
 I asked AI for some help in terms of understanding how to go about it. There was some confusing parts that I didn't get so I put my code in and asked
 it to give me instructions on what I'm missing since there were errors in running my code and with its suggestions, I was able to fix my mistakes.
 I rewrote and fixed it with the suggestions and ended up getting it right when it explained me what I got wrong and why it was wrong.
+
+
+Week 7
+
+I asked AI to help break down the problem for me in small parts so it's easier for me to understand and do the code part by part. After I wrote it, I
+asked it to break it down and let me know what I got wrong, but don't fix it. Only tell me (if the code didn't run). Then I would go back and make the
+changes to fix my mistakes and ran it again to check if it was correct. 
